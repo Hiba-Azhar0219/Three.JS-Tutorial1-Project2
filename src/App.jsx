@@ -16,8 +16,8 @@ const RotatingCube = () => {
         count={50}
         scale={2}
         size={10}
-        speed={0.05}
-        noise={0.1}
+        speed={0.5}
+        noise={0.05}
         color='yellow'
       />
     </mesh>
